@@ -17,14 +17,16 @@ utilities
 
 .card{
     background-color: #fff;
+    border: 2px solid none;
+
     color: #333;
-    border: radius 10px;
     box-shadow: 0 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
     margin: 10px;
     border-radius: 3.5px;
 
 }
+
 
 .flex{
     display: flex;
